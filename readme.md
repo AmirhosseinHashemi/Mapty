@@ -1,6 +1,6 @@
 # Mapty Project
 
-This is a training project. This project design to teach and coding base on obect-oriented paradaim.
+This is a training project. This project design to teach and code base on object-oriented paradaim.
 
 ⚠ It is not responsive.
 
